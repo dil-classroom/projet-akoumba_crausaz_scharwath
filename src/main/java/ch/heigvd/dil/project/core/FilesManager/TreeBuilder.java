@@ -33,6 +33,7 @@ public class TreeBuilder {
         this.dest = dest;
         ignoreFiles = new ArrayList<>();
         addIgnoreFile(Path.of("build"));
+        addIgnoreFile(Path.of("layouts"));
         addIgnoreFile(Path.of("config.yml"));
     }
 
