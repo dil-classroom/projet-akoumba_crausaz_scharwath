@@ -34,10 +34,12 @@ public class TreeBuilderTest {
         App.getInstance().setRootPath("data/site");
         treeBuilder.build();
         assertTrue(dest.exists());
-        assertTrue(FileUtils.listFilesAndDirs(
-                        new File(src + "/build"),
-                        FileFileFilter.INSTANCE,
-                        DirectoryFileFilter.INSTANCE)
-                .size() > 0);
+        assertTrue(
+                FileUtils.listFilesAndDirs(
+                                        new File(src + "/build"),
+                                        FileFileFilter.INSTANCE,
+                                        DirectoryFileFilter.INSTANCE)
+                                .size()
+                        > 0);
     }
 }
