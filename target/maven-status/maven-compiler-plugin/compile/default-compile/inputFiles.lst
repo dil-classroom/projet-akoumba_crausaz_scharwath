@@ -1,0 +1,15 @@
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/App.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/commands/CleanCommand.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/FilesManager/TreeBuilder.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/FilesManager/FileBuilder.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/Main.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/commands/ServeCommand.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/PageConfiguration.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/ManifestVersionProvider.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/StaticFileHandler.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/commands/BaseCommand.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/FilesManager/Injector.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/commands/BuildCommand.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/commands/InitCommand.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/Configuration.java
+/home/runner/work/projet-akoumba_crausaz_scharwath/projet-akoumba_crausaz_scharwath/src/main/java/ch/heigvd/dil/project/core/FilesManager/ResourcesUtils.java

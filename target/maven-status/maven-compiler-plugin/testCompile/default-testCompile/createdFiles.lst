@@ -1,0 +1,7 @@
+ch/heigvd/dil/project/TreeBuilderTest.class
+ch/heigvd/dil/project/commands/InitCommandTest.class
+ch/heigvd/dil/project/InjectorTest.class
+ch/heigvd/dil/project/commands/CleanCommandTest.class
+ch/heigvd/dil/project/commands/ServerCommandTest.class
+ch/heigvd/dil/project/FileBuilderTest.class
+ch/heigvd/dil/project/GetVersionTest.class

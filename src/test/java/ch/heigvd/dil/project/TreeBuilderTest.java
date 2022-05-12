@@ -1,6 +1,5 @@
 package ch.heigvd.dil.project;
 
-import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 import ch.heigvd.dil.project.core.App;
