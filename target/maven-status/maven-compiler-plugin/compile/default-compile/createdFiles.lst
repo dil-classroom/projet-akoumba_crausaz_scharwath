@@ -1,0 +1,17 @@
+ch/heigvd/dil/project/core/FilesManager/TreeBuilder$1.class
+ch/heigvd/dil/project/core/Configuration.class
+ch/heigvd/dil/project/Main.class
+ch/heigvd/dil/project/core/FilesManager/ResourcesUtils$1.class
+ch/heigvd/dil/project/core/FilesManager/Injector.class
+ch/heigvd/dil/project/StaticFileHandler.class
+ch/heigvd/dil/project/commands/ServeCommand.class
+ch/heigvd/dil/project/ManifestVersionProvider.class
+ch/heigvd/dil/project/core/PageConfiguration.class
+ch/heigvd/dil/project/core/FilesManager/FileBuilder.class
+ch/heigvd/dil/project/commands/BuildCommand.class
+ch/heigvd/dil/project/core/FilesManager/TreeBuilder.class
+ch/heigvd/dil/project/commands/CleanCommand.class
+ch/heigvd/dil/project/core/FilesManager/ResourcesUtils.class
+ch/heigvd/dil/project/commands/BaseCommand.class
+ch/heigvd/dil/project/commands/InitCommand.class
+ch/heigvd/dil/project/core/App.class
